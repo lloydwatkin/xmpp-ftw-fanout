@@ -26,7 +26,7 @@
     "url": "https://github.com/fanout/xmpp-ftw-fanout/issues"
   },
   "dependencies": {
-    "ltx": "*",
+    "ltx": "2.2.0",
     "xmpp-ftw-item-parser": "*",
     "xmpp-ftw-pubsub": "*"
   },
